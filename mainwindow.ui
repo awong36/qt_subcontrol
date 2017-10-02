@@ -60,7 +60,7 @@ border-radius: 3px;
        <number>1</number>
       </property>
       <item>
-       <widget class="QPushButton" name="pushButton_3">
+       <widget class="QPushButton" name="pushButton">
         <property name="sizePolicy">
          <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
           <horstretch>0</horstretch>
@@ -74,7 +74,7 @@ border-radius: 3px;
          </size>
         </property>
         <property name="text">
-         <string>PushButton</string>
+         <string>Page 1</string>
         </property>
        </widget>
       </item>
@@ -93,12 +93,12 @@ border-radius: 3px;
          </size>
         </property>
         <property name="text">
-         <string>PushButton</string>
+         <string>Page 2</string>
         </property>
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="pushButton">
+       <widget class="QPushButton" name="pushButton_3">
         <property name="sizePolicy">
          <sizepolicy hsizetype="Fixed" vsizetype="Fixed">
           <horstretch>0</horstretch>
@@ -112,7 +112,7 @@ border-radius: 3px;
          </size>
         </property>
         <property name="text">
-         <string>PushButton</string>
+         <string>Page 3</string>
         </property>
        </widget>
       </item>
